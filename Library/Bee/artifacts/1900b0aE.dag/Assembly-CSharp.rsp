@@ -387,6 +387,7 @@
 "Assets/Scripts/hipvals.cs"
 "Assets/Scripts/kneevals.cs"
 "Assets/Scripts/leg.cs"
+"Assets/Scripts/OrbitalCamera.cs"
 "Assets/Scripts/TCP.cs"
 -langversion:9.0
 /deterministic
